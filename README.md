@@ -1,5 +1,5 @@
 
-Modified redme for DevOPS demo gerrithub test
+Modified redme for DevOPS demo gerrithub testing
 =======
 Modified redme for DevOPS demo1
 
