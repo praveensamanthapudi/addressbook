@@ -71,7 +71,7 @@ public class AddressbookUI extends UI {
          */
         newContact.addClickListener(e -> contactForm.edit(new Contact()));
 
-        filter.setInputPrompt("Pushing changes through Docker");
+        filter.setInputPrompt("Address Book Application");
         filter.addTextChangeListener(e -> refreshContacts(e.getText()));
 
         contactList
