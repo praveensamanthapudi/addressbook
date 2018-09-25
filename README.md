@@ -1,10 +1,4 @@
 
-Modified redme for DevOPS demo gerrithub testing--Praveen
-pushing
-=======
-Modified redme for DevOPS demo1
-
-
 ********************************
 
 Addressbook Tutorial
